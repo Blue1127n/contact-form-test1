@@ -1,0 +1,19 @@
+.header {
+    background: #fff;
+}
+
+.header__inner {
+    width: 1512px;
+    height: 100px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.header__logo {
+    font-family: Inika;
+    color: rgba(139, 121, 105, 1);
+    font-size: 35px;
+    font-weight: 400px;
+    line-height: 45.61px;
+    text-decoration: none;
+}
